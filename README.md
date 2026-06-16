@@ -102,6 +102,15 @@ Dashboard Features:
 
 The dashboard transforms raw predictions into a more intuitive and user-friendly analytical tool.
 
+
+## Dashboard preview 
+
+![ Dashboard ](dashboard.png)
+
+## Prediction Graph
+
+![Prediction graph ](dashboardgraph.png)
+
 ---
 
 # 📈 Results
